@@ -1,0 +1,8 @@
+name: friendsystem
+main: com.deckerpw.friendsystem.FriendSystem
+version: 1.0
+commands:
+  { "friend" }
+
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.9.10

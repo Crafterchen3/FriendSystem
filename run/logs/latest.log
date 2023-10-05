@@ -1,0 +1,42 @@
+[18:32:58] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:32:59] [ServerMain/INFO]: Loaded 7 recipes
+[18:32:59] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[18:32:59] [Server thread/INFO]: Loading properties
+[18:33:00] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[18:33:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:33:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:33:00] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[18:33:00] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and gen parallelism of 3 threads
+[18:33:00] [Server thread/INFO]: Default game type: SURVIVAL
+[18:33:00] [Server thread/INFO]: Generating keypair
+[18:33:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:33:00] [Server thread/INFO]: Using default channel type
+[18:33:00] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[18:33:00] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[18:33:00] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[18:33:02] [Server thread/WARN]: Legacy plugin friendsystem v1.0 does not specify an api-version.
+[18:33:02] [Server thread/INFO]: [SpigotLibraryLoader] [friendsystem] Loading 1 libraries... please wait
+[18:33:02] [Server thread/INFO]: [SpigotLibraryLoader] [friendsystem] Loaded library C:\Users\decke\Development\intelliJ\FriendSystem\run\libraries\org\jetbrains\kotlin\kotlin-stdlib\1.9.10\kotlin-stdlib-1.9.10.jar
+[18:33:02] [Server thread/INFO]: [SpigotLibraryLoader] [friendsystem] Loaded library C:\Users\decke\Development\intelliJ\FriendSystem\run\libraries\org\jetbrains\kotlin\kotlin-stdlib-common\1.9.10\kotlin-stdlib-common-1.9.10.jar
+[18:33:02] [Server thread/INFO]: [SpigotLibraryLoader] [friendsystem] Loaded library C:\Users\decke\Development\intelliJ\FriendSystem\run\libraries\org\jetbrains\annotations\13.0\annotations-13.0.jar
+[18:33:02] [Server thread/INFO]: [friendsystem] Loading server plugin friendsystem v1.0
+[18:33:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:33:02] [Server thread/INFO]: Preparing level "world"
+[18:33:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:33:03] [Server thread/INFO]: Time elapsed: 195 ms
+[18:33:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:33:03] [Server thread/INFO]: Time elapsed: 25 ms
+[18:33:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:33:03] [Server thread/INFO]: Time elapsed: 21 ms
+[18:33:03] [Server thread/INFO]: [friendsystem] Enabling friendsystem v1.0*
+[18:33:03] [Server thread/INFO]: FriendSystem v1 by Crafterchen3 was succesfully loaded!
+[18:33:03] [Server thread/INFO]: Running delayed init tasks
+[18:33:03] [Server thread/INFO]: Done (3.304s)! For help, type "help"
+[18:33:03] [Server thread/INFO]: Timings Reset
+[18:33:08] [User Authenticator #0/INFO]: UUID of player Crafterchen3 is 2882a754-2fc9-45db-92de-eddd192bd494
+[18:33:08] [Server thread/INFO]: Crafterchen3 joined the game
+[18:33:08] [Server thread/INFO]: Crafterchen3[/127.0.0.1:53366] logged in with entity id 320 at ([world]93.49465099859812, 100.25105769913677, -53.67038280199653)
+[18:33:10] [Server thread/INFO]: Crafterchen3 lost connection: Disconnected
+[18:33:10] [Server thread/INFO]: Crafterchen3 left the game
